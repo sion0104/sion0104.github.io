@@ -1,8 +1,11 @@
 ---
-title: "[Python] collection.Counter" 
+title: "[Python] collections.Counter" 
 date: 2025-03-24
-categories: Python
-tags: [Python, Counter]
+categories: 
+  - Development
+  - Python
+  - Libraries/Collections
+tags: [Python, Counter, dictionary, collections, PythonTips, DataProcessing]
 ---
 
 ### Counter란?
