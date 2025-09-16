@@ -5,7 +5,6 @@ categories:
   - Development
   - Python
   - Algorithm
-
 tags: [Python, 파이썬, 프로그래머스, 달리기 경주, Swift, 스위프트]
 ---
 
