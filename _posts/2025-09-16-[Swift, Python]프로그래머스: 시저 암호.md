@@ -1,11 +1,10 @@
 ---
-title: [Algorithm/Python/Swift] 시저 암호 최적화
+title: "[Algorithm/Python/Swift] 시저 암호 최적화"
 date: 2025-09-16
 categories: 
   - Development
   - Python
   - Algorithm
-
 tags: [Python, 파이썬, 프로그래머스, 시저 암호, Swift, 스위프트]
 ---
 
