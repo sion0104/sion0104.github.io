@@ -1,5 +1,5 @@
 ---
-title: “[Algorithm/Python/Swift] 달리기 경주" 
+title: "[Algorithm/Python/Swift] 달리기 경주" 
 date: 2025-08-27
 categories: 
   - Development
@@ -7,7 +7,6 @@ categories:
   - Algorithm
 tags: [Python, 파이썬, 프로그래머스, 달리기 경주, Swift, 스위프트]
 ---
-
 # 프로그래머스: 달리기 경주 문제 풀이
 
 문제 링크 👉 [프로그래머스 178871 - 달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)
