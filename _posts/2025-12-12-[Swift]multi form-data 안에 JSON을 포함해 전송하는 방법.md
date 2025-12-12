@@ -231,11 +231,4 @@ multipart/form-data는 텍스트와 파일을 함께 전송해야 할 때 가장
 
 Swift에서는 URLSession으로 직접 multipart를 구성할 수 있으며, 위 규칙을 정확히 따르면 서버는 JSON과 이미지를 정상적으로 수신할 수 있다.
 
----
 
-필요하다면
-
-* Alamofire 버전
-* JSON + 여러 개 파일 조합
-* SwiftData or TCA 구조에서 요청 보내는 버전
-  도 추가로 작성해 드릴 수 있다.
