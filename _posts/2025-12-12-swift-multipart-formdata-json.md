@@ -8,6 +8,7 @@ categories:
   - Swift
 tags: [iOS, Swift, HTTP, multipart, form-data, JSON, 네트워크, 파일업로드]
 slug: swift-multipart-formdata-json
+permalink: /posts/swift-multipart-formdata-json/
 
 ---
 

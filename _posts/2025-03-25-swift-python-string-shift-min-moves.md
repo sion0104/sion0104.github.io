@@ -11,6 +11,8 @@ tags: [string manipulation, algorithm, python, swift, coding text, problem solvi
 description: "프로그래머스 Level 0 문자열 밀기 문제 풀이"
 link: https://school.programmers.co.kr/learn/courses/30/lessons/120921?language=python3
 slug: swift-python-string-shift-min-moves
+permalink: /posts/swift-python-string-shift-min-moves/
+
 ---
 
 # 문자열 밀어서 비교하기: 최소 이동 횟수 찾기

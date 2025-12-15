@@ -4,9 +4,12 @@ date: 2025-03-24
 categories: 
   - Development
   - Python
-  - Libraries/Collections
+  - Libraries
+  - Collections
 tags: [Python, Counter, dictionary, collections, PythonTips, DataProcessing]
 slug: python-collections-counter
+permalink: /posts/python-collections-counter/
+
 ---
 
 ### Counter란?

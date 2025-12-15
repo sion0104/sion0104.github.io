@@ -9,6 +9,7 @@ categories:
   - Swift
 tags: [iOS, Swift, HTTP, "500", InternalServerError, 네트워크, 인증]
 slug: ios-http-login-200-user-500
+permalink: /posts/ios-http-login-200-user-500/
 
 ---
 
