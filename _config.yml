@@ -29,7 +29,7 @@ github:
   username: sion0104 # change to your GitHub username
 
 twitter:
-  username:  # change to your Twitter username
+  username: # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -217,7 +217,7 @@ exclude:
   - "package*.json"
 
 jekyll-archives:
-  enabled: [categories, tags]
+  enabled: [categories]
   layouts:
     category: category
     tag: tag
