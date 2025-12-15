@@ -6,6 +6,7 @@ categories:
   - Python
   - Libraries/Collections
 tags: [Python, Counter, dictionary, collections, PythonTips, DataProcessing]
+slug: python-collections-counter
 ---
 
 ### Counter란?

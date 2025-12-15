@@ -7,6 +7,8 @@ categories:
   - Algorithm
 
 tags: [Python, 파이썬, 프로그래머스, 달리기 경주, Swift, 스위프트, 프로그래머스]
+slug: programmers-running-race
+
 ---
 
 # 프로그래머스: 달리기 경주 문제 풀이

@@ -8,6 +8,7 @@ categories:
   - HTTP
   - Swift
 tags: [iOS, Swift, HTTP, "400", BadRequest, 네트워크, API]
+slug: ios-http-400-bad-request-debugging
 
 ---
 

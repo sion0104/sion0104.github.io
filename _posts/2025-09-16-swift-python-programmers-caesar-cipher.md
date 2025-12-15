@@ -6,6 +6,8 @@ categories:
   - Python
   - Algorithm
 tags: [Python, 파이썬, 프로그래머스, 시저 암호, Swift, 스위프트]
+slug: swift-python-programmers-caesar-cipher
+
 ---
 
 # 프로그래머스: 시저 암호 문제 풀이 및 최적화

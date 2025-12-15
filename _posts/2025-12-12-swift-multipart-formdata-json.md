@@ -7,6 +7,8 @@ categories:
   - HTTP
   - Swift
 tags: [iOS, Swift, HTTP, multipart, form-data, JSON, 네트워크, 파일업로드]
+slug: swift-multipart-formdata-json
+
 ---
 
 # multipart/form-data 안에 JSON을 포함해 전송하는 방법 정리
