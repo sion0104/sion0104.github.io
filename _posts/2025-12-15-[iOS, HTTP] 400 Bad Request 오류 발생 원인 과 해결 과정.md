@@ -7,7 +7,7 @@ categories:
   - Network
   - HTTP
   - Swift
-tags: [iOS, Swift, HTTP, 400, BadRequest, 네트워크, API]
+tags: [iOS, Swift, HTTP, "400", BadRequest, 네트워크, API]
 
 ---
 
