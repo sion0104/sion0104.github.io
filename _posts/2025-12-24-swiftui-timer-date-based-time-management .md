@@ -1,4 +1,5 @@
 ---
+
 title: "[SwiftUI] Timer를 제거하고 Date 기반으로 시간 관리하기 (Swift 6 & 백그라운드 대응)"
 date: 2025-12-24
 categories:
@@ -8,6 +9,7 @@ categories:
 tags: [SwiftUI, SwiftConcurrency, Timer, Date, MainActor, Sendable, iOS, 상태기반설계, 백그라운드처리]
 slug: swiftui-timer-date-based-time-management
 permalink: /posts/swiftui-timer-date-based-time-management/
+
 ---
 
 # SwiftUI 타이머 설계 개선기  
